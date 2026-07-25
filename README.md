@@ -6,12 +6,12 @@ A collection of personal projects covering data analysis, machine learning, natu
 
 | # | Project | Domain | Key Techniques |
 |---|---|---|---|
-| 01 | [IMDB Movie Review Sentiment Analysis](./01_nlp_imdb_sentiment_analysis.ipynb) | NLP | Text preprocessing, sentiment classification |
-| 02 | [Heart Disease Prediction](./02_classification_heart_disease.ipynb) | Classification | Logistic Regression, Decision Tree, Random Forest, SVM |
-| 03 | [Body Fat Percentage Prediction](./03_regression_body_fat.ipynb) | Regression | Regression modeling, feature impact analysis |
-| 04 | [Credit Card Customer Segmentation](./04_clustering_credit_card.ipynb) | Clustering | K-Means, DBSCAN, GMM |
-| 05 | [Melon Music Chart Crawling](./05_web_crawling_melon.ipynb) | Web Crawling | Selenium |
-| 06 | [Adidas Sales Dashboard](./06_adidas_sales_dashboard.twbx) | Data Visualization | Tableau |
+| 01 | [IMDB Movie Review Sentiment Analysis](./01_NLP_IMDB_Sentiment_Analysis/nlp_imdb_sentiment_analysis.ipynb) | NLP | Text preprocessing, sentiment classification |
+| 02 | [Heart Disease Prediction](./02_Classification_HeartDisease/classification_heart_disease.ipynb) | Classification | Logistic Regression, Decision Tree, Random Forest, SVM |
+| 03 | [Body Fat Percentage Prediction](./03_Regression_BodyFat/regression_body_fat.ipynb) | Regression | Regression modeling, feature impact analysis |
+| 04 | [Credit Card Customer Segmentation](./04_Clustering_CreditCard/clustering_credit_card.ipynb) | Clustering | K-Means, DBSCAN, GMM |
+| 05 | [Melon Music Chart Crawling](./05_WebCrawling_Melon/web_crawling_melon.ipynb) | Web Crawling | Selenium |
+| 06 | [Adidas Sales Dashboard](./06_DataViz_AdidasSalesDashboard/adidas_sales_dashboard.twbx) | Data Visualization | Tableau |
 
 ---
 
