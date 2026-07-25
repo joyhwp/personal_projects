@@ -6,7 +6,7 @@ A collection of personal projects covering data analysis, machine learning, natu
 
 | # | Project | Domain | Key Techniques |
 |---|---|---|---|
-| 01 | [IMDB Movie Review Sentiment Analysis](https://github.com/joyhwp/personal_projects/tree/main/01_NLP_IMDB_Sentiment_Analysis) | NLP | Text preprocessing, sentiment classification |
+| 01 | [IMDB Movie Review Sentiment Analysis](./01_NLP_IMDB_Sentiment_Analysis/nlp_imdb_sentiment_analysis.ipynb) | NLP | Text preprocessing, sentiment classification |
 | 02 | [Heart Disease Prediction](./02_Classification_HeartDisease/classification_heart_disease.ipynb) | Classification | Logistic Regression, Decision Tree, Random Forest, SVM |
 | 03 | [Body Fat Percentage Prediction](./03_Regression_BodyFat/regression_body_fat.ipynb) | Regression | Regression modeling, feature impact analysis |
 | 04 | [Credit Card Customer Segmentation](./04_Clustering_CreditCard/clustering_credit_card.ipynb) | Clustering | K-Means, DBSCAN, GMM |
