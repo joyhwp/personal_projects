@@ -23,7 +23,7 @@ A collection of personal projects covering data analysis, machine learning, natu
 - Applied text preprocessing, TF-IDF, and machine learning models.
 - Compared multiple classifiers and evaluated performance.
 
-📂 Folder: **01_NLP_IMDB_Sentiment_Analysis**
+📂 Folder: ➡️ [View Project Folder](./01_NLP_IMDB_Sentiment_Analysis/)
 
 ## 02. Heart Disease Prediction
 Built classification models to predict the likelihood of heart disease based on patient clinical data, and compared the performance of four models (Logistic Regression, Decision Tree, Random Forest, SVM).
