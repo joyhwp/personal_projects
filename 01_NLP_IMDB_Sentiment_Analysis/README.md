@@ -32,4 +32,4 @@ Key negative keywords: *low budget, waste money, worst ever, main character, hig
 ## Tech Stack
 `Python` `NLP` `BERT` `scikit-learn`
 
-📎 [View Code](./nlp_imdb_sentiment_analysis.ipynb)
+📎 [View Code](./01_NLP_IMDB_Sentiment_Analysis/nlp_imdb_sentiment__analysis.ipynb)
