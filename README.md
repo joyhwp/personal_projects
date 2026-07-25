@@ -15,9 +15,15 @@ A collection of personal projects covering data analysis, machine learning, natu
 
 ---
 
+# ⭐ Featured Project
+
 ## 01. IMDB Movie Review Sentiment Analysis
-Built an NLP model to predict positive/negative sentiment from IMDB movie review text, and derived business insights applicable to the film industry based on the results.
-`Python` `NLP` `scikit-learn`
+
+- Built an NLP sentiment classification model using movie review data.
+- Applied text preprocessing, TF-IDF, and machine learning models.
+- Compared multiple classifiers and evaluated performance.
+
+📂 Folder: **01_NLP_IMDB_Sentiment_Analysis**
 
 ## 02. Heart Disease Prediction
 Built classification models to predict the likelihood of heart disease based on patient clinical data, and compared the performance of four models (Logistic Regression, Decision Tree, Random Forest, SVM).
