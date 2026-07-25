@@ -2,6 +2,7 @@
 
 ## Overview
 Built an interactive Tableau dashboard analyzing Adidas's recent sales growth, targeted at executives and marketing/sales teams. The analysis aims to identify the drivers behind Adidas's recent growth and derive a profit growth strategy that balances both scale and efficiency.
+
 <img width="1302" height="800" alt="image" src="https://github.com/user-attachments/assets/7e9d6ea4-b63d-4f65-afc9-44aa4ead7633" />
 
 ## KPIs
