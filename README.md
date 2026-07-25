@@ -15,7 +15,6 @@ A collection of personal projects covering data analysis, machine learning, natu
 
 ---
 
-# ⭐ Featured Project
 
 ## 01. IMDB Movie Review Sentiment Analysis
 Built an NLP model to predict positive/negative sentiment from IMDB movie review text, and derived business insights applicable to the film industry based on the results.
