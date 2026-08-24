@@ -12,6 +12,7 @@ A collection of personal projects covering data analysis, machine learning, natu
 | 04 | [Credit Card Customer Segmentation](./04_Clustering_CreditCard/README.md) | Clustering | K-Means, DBSCAN, GMM |
 | 05 | [Melon Music Chart Crawling](./05_WebCrawling_Melon/README.md) | Web Crawling | Selenium |
 | 06 | [Adidas Sales Dashboard](./06_DataViz_AdidasSalesDashboard/README.md) | Data Visualization | Tableau |
+| 07 | [LLM Engineering Sessions](07_LLM_Engineering_Sessions/) | LLM/VLM | RAG, Fine-tuning |
 
 ---
 
@@ -39,3 +40,6 @@ Built a web crawling pipeline using Selenium to automatically collect data from 
 ## 06. Adidas Sales Dashboard
 Created an interactive Tableau dashboard to explore Adidas sales trends by region, product, and time period.
 `Tableau`
+
+## 07. LLM Engineering Sessions
+A set of exploratory sessions covering core LLM/VLM engineering techniques, including retrieval-augmented generation (RAG) and fine-tuning experiments. `Python` `Transformers` `RAG` `Fine-tuning`
